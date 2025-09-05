@@ -227,12 +227,3 @@ For issues or questions:
 3. Ensure API keys are properly configured
 4. Test individual endpoints using `/test`
 
-## 🎯 Hackathon Context
-
-**Challenge:** Develop a tool/solution to help prevent investment fraud  
-**Alignment:** SEBI's Safe Space initiative to protect retail investors  
-**Impact:** Reduces financial losses and maintains market integrity
-
----
-
-**Built with ❤️ for investor protection and market integrity**
